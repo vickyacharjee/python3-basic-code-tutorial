@@ -1,1 +1,1 @@
-This is a sampel projkect to showcase all the pyrthion basic codesssss
+This is a sampel projkect to showcase all the pyrthion basic code
